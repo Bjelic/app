@@ -1,0 +1,10 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "\treact-app",
+  "main": "lib/server.js",
+  "repository": "https://github.com/Bjelic/react.git",
+  "author": "Bojan",
+  "license": "MIT",
+  "private": null
+}
